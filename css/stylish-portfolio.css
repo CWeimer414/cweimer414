@@ -222,11 +222,11 @@ i.scroll:hover {
 @media (max-width: 768px) {
 	
   .header {
-	background: url(https://dl-web.dropbox.com/get/IMG_4846.JPG?w=AADItrJ_PUi9Pwsek_TidCgLvqGh-StjT323mW7UPC9alg) no-repeat center center scroll; 
+	background: url(../img/chicago.jpg) no-repeat center center scroll; 
   }
 
   .callout {
-	background: url(../Users/cweimer414/Documents/Christopher-Website/img/DSC_0914.jpg) no-repeat center center scroll; 
+	background: url(../img/chicago.jpg) no-repeat center center scroll; 
   }
 
   .map {
