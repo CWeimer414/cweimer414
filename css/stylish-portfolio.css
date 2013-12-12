@@ -111,7 +111,7 @@ body {
   height: 100%;
   width: 100%;
   position: relative;
-  background: #000000 url('/img/bg.jpg') no-repeat center center fixed; 
+  background: #000000 url('/img/chicago.JPG') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -155,7 +155,7 @@ i.service-icon {
   display: table;
   height: 400px;
   width: 100%;
-  background: #000000 url('/img/callout.jpg') no-repeat center center fixed; 
+  background: #000000 url('/img/metro.JPG') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -222,11 +222,11 @@ i.scroll:hover {
 @media (max-width: 768px) {
 	
   .header {
-	background: #000000 url('/img/chicago.jpg') no-repeat center center scroll; 
+	background: #000000 url('/img/chicago.JPG') no-repeat center center scroll; 
   }
 
   .callout {
-	background: #000000 url('/img/science.jpg') no-repeat center center scroll; 
+	background: #000000 url('/img/metro.JPG') no-repeat center center scroll; 
   }
 
   .map {
