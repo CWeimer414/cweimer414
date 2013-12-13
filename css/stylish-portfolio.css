@@ -13,18 +13,22 @@ body {
   color: #ffffff;
 }
 .accent-text-bold {
-  font-family: Roboto+Slab, bold;
+  font-family: 'Roboto Slab';
+  font-weight: 700;
 }
 
 .accent-text-medium {
-  font-family: Roboto+Slab, normal;
+  font-family: 'Roboto Slab';
+  font-weight: 400;
 }
 
 .accent-text-light {
-  font-family: Roboto+Slab, light;
+  font-family: 'Roboto Slab';
+  font-weight: 300;
 }
 .accent-text-thin {
-  font-family: Roboto+Slab, thin;
+  font-family: 'Roboto Slab';
+  font-weight: 100;
 }
 
 .vert-text h1 {
