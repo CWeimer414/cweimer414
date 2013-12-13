@@ -12,6 +12,20 @@ body {
   text-align: center;
   color: #0a4e6f;
 }
+.accent-text-bold {
+  font-family: Roboto+Slab, bold;
+}
+
+.accent-text-medium {
+  font-family: Roboto+Slab, normal;
+}
+
+.accent-text-light {
+  font-family: Roboto+Slab, light;
+}
+.accent-text-thin {
+  font-family: Roboto+Slab, thin;
+}
 
 .vert-text h1 {
   padding: 0;
