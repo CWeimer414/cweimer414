@@ -266,11 +266,12 @@ i.scroll:hover {
 @media (max-width: 768px) {
 	
   .header {
-	background: #000000 url('/img/science.JPG') no-repeat center center scroll; 
+	background: #000000 url('/img/mission.JPG') no-repeat center center scroll; 
   }
 
   .callout {
 	background: #000000 url('/img/tunnel.JPG') no-repeat center center scroll; 
+	height: 200px;
   }
 
   .map {
