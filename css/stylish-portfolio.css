@@ -10,7 +10,7 @@ body {
   display: table-cell;
   vertical-align: middle;
   text-align: center;
-  color: #0a5175;
+  color: #0a4e6f;
 }
 
 .vert-text h1 {
@@ -18,7 +18,7 @@ body {
   margin: 0;
   font-size: 4.5em;
   font-weight: 700;
-  color: #0a5175;
+  color: #0a4e6f;
 }
 
 /* Side Menu */
@@ -217,7 +217,7 @@ i.scroll {
 }
 
 i.scroll:hover {
-  color: #0a5175;
+  color: #0a4e6f;
 }
 /* Responsive */
 
