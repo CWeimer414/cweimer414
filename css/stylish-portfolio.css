@@ -12,23 +12,24 @@ body {
   text-align: center;
   color: #ffffff;
 }
-.accent-text-bold {
-  font-family: 'Roboto Slab';
-  font-weight: 700;
-}
-
-.accent-text-medium {
-  font-family: 'Roboto Slab';
-  font-weight: 400;
-}
 
 .accent-text-light {
   font-family: 'Roboto Slab';
+  font-style: normal;
   font-weight: 300;
+  src: local('Roboto Slab Light'), local('RobotoSlab-Light'), url(http://themes.googleusercontent.com/static/fonts/robotoslab/v2/dazS1PrQQuCxC3iOAJFEJXZ4362_PV5aPD5jU0S2ELI.woff) format('woff');
 }
-.accent-text-thin {
+.accent-text-medium {
   font-family: 'Roboto Slab';
-  font-weight: 100;
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url(http://themes.googleusercontent.com/static/fonts/robotoslab/v2/y7lebkjgREBJK96VQi37ZqfTCPadK0KLfdEfFtGWCYw.woff) format('woff');
+}
+.accent-text-bold {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Slab Bold'), local('RobotoSlab-Bold'), url(http://themes.googleusercontent.com/static/fonts/robotoslab/v2/dazS1PrQQuCxC3iOAJFEJRLE7eCesZRIBkkq27EgTqg.woff) format('woff');
 }
 
 .vert-text h1 {
