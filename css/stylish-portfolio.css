@@ -23,13 +23,14 @@ body {
   font-family: 'Roboto Slab';
   font-style: normal;
   font-weight: 400;
+  text-shadow: 1px 1px #000000;
   src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url(http://themes.googleusercontent.com/static/fonts/robotoslab/v2/y7lebkjgREBJK96VQi37ZqfTCPadK0KLfdEfFtGWCYw.woff) format('woff');
 }
 .accent-text-bold {
   font-family: 'Roboto Slab';
   font-style: normal;
   font-weight: 700;
-  text-shadow: 2px 2px #ff0000;
+  text-shadow: 1px 1px #000000;
   src: local('Roboto Slab Bold'), local('RobotoSlab-Bold'), url(http://themes.googleusercontent.com/static/fonts/robotoslab/v2/dazS1PrQQuCxC3iOAJFEJRLE7eCesZRIBkkq27EgTqg.woff) format('woff');
 }
 
