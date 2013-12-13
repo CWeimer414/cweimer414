@@ -10,7 +10,7 @@ body {
   display: table-cell;
   vertical-align: middle;
   text-align: center;
-  color: #0a4e6f;
+  color: #ffffff;
 }
 .accent-text-bold {
   font-family: Roboto+Slab, bold;
@@ -32,7 +32,7 @@ body {
   margin: 0;
   font-size: 4.5em;
   font-weight: 700;
-  color: #0a4e6f;
+  color: #ffffff;
 }
 
 /* Side Menu */
@@ -196,8 +196,8 @@ i.service-icon {
 /* Call to Action */
 
 .call-to-action {
-  color: #000000;
-  background: #ffffff;
+  color: #ffffff;
+  background: #000000;
   padding: 50px 0;
 }
 
