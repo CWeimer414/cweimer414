@@ -13,6 +13,28 @@ body {
   color: #ffffff;
 }
 
+.accent-text-light-shadow {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 300;
+  text-shadow: 1px 1px #000000;
+  src: local('Roboto Slab Light'), local('RobotoSlab-Light'), url(http://themes.googleusercontent.com/static/fonts/robotoslab/v2/dazS1PrQQuCxC3iOAJFEJXZ4362_PV5aPD5jU0S2ELI.woff) format('woff');
+}
+.accent-text-medium-shadow {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  text-shadow: 1px 1px #000000;
+  src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url(http://themes.googleusercontent.com/static/fonts/robotoslab/v2/y7lebkjgREBJK96VQi37ZqfTCPadK0KLfdEfFtGWCYw.woff) format('woff');
+}
+.accent-text-bold-shadow {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  text-shadow: 1px 1px #000000;
+  src: local('Roboto Slab Bold'), local('RobotoSlab-Bold'), url(http://themes.googleusercontent.com/static/fonts/robotoslab/v2/dazS1PrQQuCxC3iOAJFEJRLE7eCesZRIBkkq27EgTqg.woff) format('woff');
+}
+
 .accent-text-light {
   font-family: 'Roboto Slab';
   font-style: normal;
@@ -23,16 +45,15 @@ body {
   font-family: 'Roboto Slab';
   font-style: normal;
   font-weight: 400;
-  text-shadow: 1px 1px #000000;
   src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url(http://themes.googleusercontent.com/static/fonts/robotoslab/v2/y7lebkjgREBJK96VQi37ZqfTCPadK0KLfdEfFtGWCYw.woff) format('woff');
 }
 .accent-text-bold {
   font-family: 'Roboto Slab';
   font-style: normal;
   font-weight: 700;
-  text-shadow: 1px 1px #000000;
   src: local('Roboto Slab Bold'), local('RobotoSlab-Bold'), url(http://themes.googleusercontent.com/static/fonts/robotoslab/v2/dazS1PrQQuCxC3iOAJFEJRLE7eCesZRIBkkq27EgTqg.woff) format('woff');
 }
+
 
 .vert-text h1 {
   padding: 0;
